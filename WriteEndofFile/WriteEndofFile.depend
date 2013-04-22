@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1366342242 source:f:\cpp_workspace\writeendoffile\main.cpp
+	<iostream>
+	<cstdio>
+
